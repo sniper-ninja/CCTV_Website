@@ -159,6 +159,47 @@ a:hover {
 
 /*--/ Title Left /--*/
 
+/*--/ Director's Profile /--*/
+.dp{
+  font-size: 3rem;
+  color: red;
+  font-style: italic;
+}
+/*--/ Director's Profile /--*/
+
+/*--/ Comapny Profile /--*/
+.cp{
+  font-size: 3rem;
+  color: rgb(1, 109, 1);
+  font-style: italic;
+}
+/*--/ Comapny's Profile /--*/
+
+/*--/ Quality Profile /--*/
+.qp{
+  font-size: 3rem;
+  color: red;
+  font-style: italic;
+}
+#arr{
+  color: red;
+  font-weight: bolder;
+  font-size: x-large;
+}
+/*--/ Quality Profile /--*/
+
+/*--/ TEam Profile /--*/
+.team{
+  font-size: 3rem;
+  color: rgb(1, 109, 1);
+  font-style: italic;
+}
+/*--/ Team Profile /--*/
+
+#white{
+  color: rgba(255, 255, 255, 0.5);
+}
+
 .title-box-2 {
   margin-bottom: 3rem;
 }
@@ -320,7 +361,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #630000;
+  background: black;
   color: #fff;
   width: 44px;
   height: 44px;
